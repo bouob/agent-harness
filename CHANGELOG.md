@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.0](https://github.com/bouob/agent-harness/compare/v0.6.0...v1.0.0) (2026-04-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* **agent-harness:** drop Auggie support; reduce engine enum to {claude, codex} ([#8](https://github.com/bouob/agent-harness/issues/8))
+* **agent-harness:** drop Auggie support; reduce engine enum to {claude, codex}
+
+### Features
+
+* **agent-harness:** drop Auggie support; reduce engine enum to {claude, codex} ([4c9a4d5](https://github.com/bouob/agent-harness/commit/4c9a4d5ed4e152ad7b2c3f90104521d9ea97b21b))
+* **agent-harness:** drop Auggie support; reduce engine enum to {claude, codex} ([#8](https://github.com/bouob/agent-harness/issues/8)) ([dff507d](https://github.com/bouob/agent-harness/commit/dff507d83c2be7ae5174dc8c4a296e5887fd2245))
+
 ## [0.6.0](https://github.com/bouob/agent-harness/compare/v0.5.0...v0.6.0) (2026-04-28)
 
 
