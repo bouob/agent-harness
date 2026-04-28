@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.0.0](https://github.com/bouob/agent-harness/compare/v1.0.0...v2.0.0) (2026-04-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* **agent-harness:** drop multi-host scaffolding; revert to Claude Code-only ([#10](https://github.com/bouob/agent-harness/issues/10))
+* **agent-harness:** drop multi-host scaffolding; revert to Claude Code-only
+
+### Features
+
+* **agent-harness:** drop multi-host scaffolding; revert to Claude Code-only ([ff1bd27](https://github.com/bouob/agent-harness/commit/ff1bd2735571c4ae594fa80192bff6f20cef93d1))
+* **agent-harness:** drop multi-host scaffolding; revert to Claude Code-only ([#10](https://github.com/bouob/agent-harness/issues/10)) ([40dea14](https://github.com/bouob/agent-harness/commit/40dea142c1802a24bc550476750deec5f951d8ac))
+
 ## [1.0.0](https://github.com/bouob/agent-harness/compare/v0.6.0...v1.0.0) (2026-04-28)
 
 
