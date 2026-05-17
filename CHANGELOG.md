@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.0](https://github.com/bouob/agent-harness/compare/v2.0.0...v2.1.0) (2026-05-17)
+
+
+### Features
+
+* **agent-harness:** add Codex adapter for dual-host package ([7716a7b](https://github.com/bouob/agent-harness/commit/7716a7ba741ef6de25b28fb9c8747d0d96aa6d72))
+* **agent-harness:** add Codex adapter for dual-host package ([c72e862](https://github.com/bouob/agent-harness/commit/c72e8622a6b4df1ed954b0b091dcf2fc77d71231))
+
 ## [2.0.0](https://github.com/bouob/agent-harness/compare/v1.0.0...v2.0.0) (2026-04-28)
 
 
