@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.3.0](https://github.com/bouob/agent-harness/compare/v2.2.0...v2.3.0) (2026-05-18)
+
+
+### Features
+
+* **agent-harness:** add Codex model routing init ([cd9aad1](https://github.com/bouob/agent-harness/commit/cd9aad1fdcf816fef7f147fc01303dde96f041ad))
+* **agent-harness:** add multi-agent harness plugin ([f409425](https://github.com/bouob/agent-harness/commit/f409425f71532a3177ef81d2cc560b0170af484c))
+* **agent-harness:** sync updates 2026-05-19 ([a8fb166](https://github.com/bouob/agent-harness/commit/a8fb166e2e875a6baff434139262afc69d2c68a1))
+
 ## [2.2.0](https://github.com/bouob/agent-harness/compare/v2.1.0...v2.2.0) (2026-05-18)
 
 
