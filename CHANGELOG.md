@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.4.0](https://github.com/bouob/agent-harness/compare/v2.3.0...v2.4.0) (2026-05-19)
+
+
+### Features
+
+* **agent-harness:** add Codex model routing init ([5a680b0](https://github.com/bouob/agent-harness/commit/5a680b08e4aa6b714107a28015808ba32925fbcb))
+* **agent-harness:** add configurable model routing (v0.2.0) ([1950f09](https://github.com/bouob/agent-harness/commit/1950f090014e6b3bd1824660a8d660a04d9b8e0c))
+* **agent-harness:** add multi-agent harness plugin ([7c02fdd](https://github.com/bouob/agent-harness/commit/7c02fddada83f7c20a8fd2ebf2d7623c71dc1f5a))
+* **agent-harness:** introduce vendor-neutral schemas and adapter scaffolding for multi-host ([ca39bf7](https://github.com/bouob/agent-harness/commit/ca39bf7748f018b21377aec15dfc72778085abee))
+* **agent-harness:** sync updates 2026-05-19 ([61d810c](https://github.com/bouob/agent-harness/commit/61d810c4f4d8ff50909e40f9c485436a8881d60a))
+
 ## [2.3.0](https://github.com/bouob/agent-harness/compare/v2.2.0...v2.3.0) (2026-05-18)
 
 
