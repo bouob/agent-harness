@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.6.0](https://github.com/bouob/agent-harness/compare/v2.5.0...v2.6.0) (2026-06-10)
+
+
+### Features
+
+* **agent-harness:** sync updates 2026-06-11 ([6b898e3](https://github.com/bouob/agent-harness/commit/6b898e3c196202ea350e1964f8f2d77fe7f5a3db))
+* **agent-harness:** workflow-backed sprint orchestration, fable routing, frontier preset ([1fe2473](https://github.com/bouob/agent-harness/commit/1fe24732e981c2dfe5b1ee0c6b4d06ad38a2aca8))
+* **sprint:** add per-role reasoning effort, schema v4 ([c0415dc](https://github.com/bouob/agent-harness/commit/c0415dc02230a383bf7ea2ad9ddc1dc1aba1d4aa))
+
 ## [2.5.0](https://github.com/bouob/agent-harness/compare/v2.4.0...v2.5.0) (2026-06-10)
 
 
