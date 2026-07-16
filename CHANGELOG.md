@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.7.0](https://github.com/bouob/agent-harness/compare/v2.6.0...v2.7.0) (2026-07-16)
+
+
+### Features
+
+* **agent-harness:** sync updates 2026-07-16 ([f8223d9](https://github.com/bouob/agent-harness/commit/f8223d9fab9be400faba376f44cb7001a3f582c5))
+* **agent-harness:** use native workflow effort opt in sprint, drop keyword injection ([56f0217](https://github.com/bouob/agent-harness/commit/56f0217cd2bab5fa53f38ee3938d9fce16aa91d9))
+
 ## [2.6.0](https://github.com/bouob/agent-harness/compare/v2.5.0...v2.6.0) (2026-06-10)
 
 
