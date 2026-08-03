@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.8.0](https://github.com/bouob/agent-harness/compare/v2.7.0...v2.8.0) (2026-08-03)
+
+
+### Features
+
+* **agent-harness:** add plan checkpoint before generator launch ([4d2c54a](https://github.com/bouob/agent-harness/commit/4d2c54a6997586e0c38d1962f7daefa707bc693c))
+* **agent-harness:** sync updates 2026-08-04 ([cb61a07](https://github.com/bouob/agent-harness/commit/cb61a07c775f2a0919bfdac0ebad049be4887307))
+* **agent-harness:** use native workflow effort opt in sprint, drop keyword injection ([fff38fb](https://github.com/bouob/agent-harness/commit/fff38fb02348e1d6ac3ab8bc1336da2dc228fff8))
+
+
+### Bug Fixes
+
+* **agent-harness:** allow xhigh effort on sonnet-routed roles ([1ca5869](https://github.com/bouob/agent-harness/commit/1ca58692c053cbc2f28221bc16d2754bd6685fb3))
+
 ## [2.7.0](https://github.com/bouob/agent-harness/compare/v2.6.0...v2.7.0) (2026-07-16)
 
 
